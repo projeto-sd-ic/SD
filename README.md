@@ -1,2 +1,2 @@
 # SD
-arduimo code
+arduino code
