@@ -1,7 +1,7 @@
 int sensor_valor = 0;
 int limite_som = 670; //Depois de fazer a calibração do trimpot, inserir o valor obtido de ajuste aqui
 int abs_valor = 0;
-int contagem_leds = 8; //quantidade de LEDs
+int contagem_leds = 6; //quantidade de LEDs
 int Pinos_Leds[] = {3, 4, 5, 6, 7, 8}; // Pinos do arduínos referente aos LEDs
   void setup(){
 Serial.begin(9600); // setup serial
